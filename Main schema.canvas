@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e9f11a3bf6a51cad","x":-280,"y":-440,"width":250,"height":60,"type":"text","text":"Создать проект"},
+		{"id":"f662e429f29a908f","x":-280,"y":-340,"width":250,"height":60,"type":"text","text":"???"},
+		{"type":"text","text":"???","id":"ee2eb33d0ab2ea27","x":-280,"y":-240,"width":250,"height":60},
+		{"id":"d6622c352d938270","x":-280,"y":-140,"width":250,"height":60,"type":"text","text":"Proffit"}
+	],
+	"edges":[
+		{"id":"c83b08021fdec04d","fromNode":"e9f11a3bf6a51cad","fromSide":"bottom","toNode":"f662e429f29a908f","toSide":"top"},
+		{"id":"850e9c39697c2939","fromNode":"f662e429f29a908f","fromSide":"bottom","toNode":"ee2eb33d0ab2ea27","toSide":"top"},
+		{"id":"637a357b75141896","fromNode":"ee2eb33d0ab2ea27","fromSide":"bottom","toNode":"d6622c352d938270","toSide":"top"}
+	]
+}
