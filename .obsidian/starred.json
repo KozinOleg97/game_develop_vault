@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Main Kanban Table",
+      "path": "Main Kanban Table.md"
+    },
+    {
+      "type": "file",
+      "title": "TODOs",
+      "path": "TODOs.md"
+    },
+    {
+      "type": "file",
+      "title": "Main schema",
+      "path": "Main schema.canvas"
+    }
+  ]
+}
