@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инструменты.md",
+                "file": "Цели.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e133a6d099f20453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Первичное описание.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Цели.md",
+                "file": "Первичное описание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Цели.md",
+                "file": "Первичное описание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Цели.md"
+                "file": "Первичное описание.md"
               }
             }
           },
@@ -197,11 +210,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66e5db47c513c146",
+  "active": "e133a6d099f20453",
   "lastOpenFiles": [
-    "Первичное описание.md",
-    "Цели.md",
+    "Инструменты.md",
     "Полезные ресурсы.md",
-    "Инструменты.md"
+    "Цели.md",
+    "Godot.md",
+    "Первичное описание.md"
   ]
 }
