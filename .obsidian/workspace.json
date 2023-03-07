@@ -32,48 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e133a6d099f20453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Цели.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54a73edcf4259268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Первичное описание.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b07abe806be021c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Цели.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Цели.md",
+                "file": "Первичное описание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Цели.md",
+                "file": "Первичное описание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Цели.md"
+                "file": "Первичное описание.md"
               }
             }
           },
@@ -211,22 +171,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bc6f146441f0c8ec",
+  "active": "7b22963b29e77b94",
   "lastOpenFiles": [
+    "Цели.md",
     "TODOs.md",
+    "Первичное описание.md",
+    "Stats.md",
+    "характеристики.md",
     "Сохранение состаяния игры.md",
+    "Полезные ресурсы.md",
+    "Инструменты.md",
     "База данных игры.md",
-    "Main schema.canvas",
     "Main Kanban Table.md",
     "Godot.md",
+    "Main schema.canvas",
     "сохранением состояния игры.md",
     "Cохранением состояния игры.md",
-    "Цели.md",
     "Kanban/TODOs 1.md",
     "Kanban/fff.md",
-    "Kanban",
-    "Инструменты.md",
-    "Первичное описание.md",
-    "Полезные ресурсы.md"
+    "Kanban"
   ]
 }
