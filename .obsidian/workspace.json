@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abe815929e55f896",
+        "id": "4fe8765ac7db1498",
         "type": "tabs",
         "children": [
           {
-            "id": "7b22963b29e77b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Первичное описание.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "085b88b749074cfa",
+            "id": "cb4c1944772ecb45",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Первичное описание.md",
+                "file": "Цели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Первичное описание.md",
+                "file": "Цели.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Первичное описание.md"
+                "file": "Цели.md"
               }
             }
           },
@@ -171,8 +158,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7b22963b29e77b94",
+  "active": "cb4c1944772ecb45",
   "lastOpenFiles": [
+    "Инструменты.md",
+    "Main schema.canvas",
     "Цели.md",
     "TODOs.md",
     "Первичное описание.md",
@@ -180,11 +169,9 @@
     "характеристики.md",
     "Сохранение состаяния игры.md",
     "Полезные ресурсы.md",
-    "Инструменты.md",
     "База данных игры.md",
     "Main Kanban Table.md",
     "Godot.md",
-    "Main schema.canvas",
     "сохранением состояния игры.md",
     "Cохранением состояния игры.md",
     "Kanban/TODOs 1.md",
