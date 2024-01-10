@@ -1,9 +1,14 @@
 [
-  "obsidian-git",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
   "table-editor-obsidian",
   "obsidian-admonition",
   "url-into-selection",
-  "homepage"
+  "homepage",
+  "markdown-prettifier",
+  "quickadd",
+  "darlal-switcher-plus",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-mkdocs-publisher",
+  "automatic-table-of-contents"
 ]

@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4fe8765ac7db1498",
+        "id": "7d7a035f4c737bde",
         "type": "tabs",
         "children": [
           {
-            "id": "cb4c1944772ecb45",
+            "id": "8a3007bf51eb12cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Цели.md",
+                "file": "Темы/Тема_2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbf284123dac29df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,6 +76,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "04729f67ccc06560",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Цели.md",
+                "file": "Темы/Тема_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Цели.md",
+                "file": "Темы/Тема_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,20 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Цели.md"
+                "file": "Темы/Тема_2.md"
               }
-            }
-          },
-          {
-            "id": "bc6f146441f0c8ec",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,30 +161,45 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "cb4c1944772ecb45",
+  "active": "8a3007bf51eb12cd",
   "lastOpenFiles": [
-    "Инструменты.md",
-    "Main schema.canvas",
+    "Темы/Тема_1.md",
+    "templates/Сущность.md",
+    "Темы/Тема_2.md",
+    "index.md",
     "Цели.md",
+    "Темы",
+    "Main Kanban Table.md",
+    "Main schema.canvas",
+    "Entity-Component-System.md",
     "TODOs.md",
-    "Первичное описание.md",
     "Stats.md",
-    "характеристики.md",
+    "Godot.md",
+    "Bevy.md",
     "Сохранение состаяния игры.md",
     "Полезные ресурсы.md",
+    "Первичное описание.md",
+    "Заимствование идей.md",
     "База данных игры.md",
-    "Main Kanban Table.md",
-    "Godot.md",
+    "Инструменты.md",
+    "Untitled.md",
+    "_config.yaml",
+    "config.yaml",
+    "Новый текстовый документ.txt",
+    "templates",
+    "характеристики.md",
     "сохранением состояния игры.md",
     "Cохранением состояния игры.md",
     "Kanban/TODOs 1.md",

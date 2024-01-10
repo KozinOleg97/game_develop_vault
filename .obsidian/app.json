@@ -1,8 +1,8 @@
 {
   "showUnsupportedFiles": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "ru",
-    "en-US"
-  ]
+  "spellcheckLanguages": null,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
 }
