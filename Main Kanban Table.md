@@ -1,8 +1,7 @@
 ---
-
 kanban-plugin: basic
-
 ---
+
 
 ## Hight priority
 
